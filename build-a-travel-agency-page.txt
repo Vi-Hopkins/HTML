@@ -1,0 +1,65 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang = 'en'>
+
+  <head>
+    
+    <meta charset = 'utf-8'>
+    <title> 'Travel Agency Page' </title> 
+    <meta name = 'description' content = "A wonderful agency for taravel extroadinares">
+
+  </head>
+  <body>
+      <h1>Travel destinations</h1>
+
+      <p>So many opportunities</p>
+
+      <h2>Packages</h2>
+
+      <p>So many options</p>
+
+      <ul>
+        <li><a href = 'https://www.freecodecamp.org/learn' target='_blank'>Group Travels</a></li>
+        <li><a href = 'https://www.freecodecamp.org/learn' target='_blank'>Private Tours</a></li>
+
+      </ul>
+
+      <h2>Top Itineraries</h2>
+
+      <figure>
+        <a href='https://www.freecodecamp.org/learn' target='_blank'>
+          <img src = 'https://cdn.freecodecamp.org/curriculum/labs/colosseo.jpg' alt = "A picture of the Colosseo">
+
+        </a>
+        <figcaption>Battle in the Colosseum</figcaption>
+      </figure>
+
+
+
+      <figure>
+
+        <a href='https://www.freecodecamp.org/learn' target='_blank'>
+
+          <img src = 'https://cdn.freecodecamp.org/curriculum/labs/alps.jpg' alt = "A picture of the Alps"> 
+        </a>
+        <figcaption>Adventure in the Swiss Alps</figcaption>
+      </figure>
+
+
+
+      <figure>
+
+        <a href='https://www.freecodecamp.org/learn' target='_blank'>
+
+          <img src = 'https://cdn.freecodecamp.org/curriculum/labs/sea.jpg' alt = "A picture of the sea">
+
+        </a>
+        <figcaption>Relax on a Mediterranean beach</figcaption>  
+      </figure>
+
+  </body>
+</html>
+
+** end of index.html **
+
